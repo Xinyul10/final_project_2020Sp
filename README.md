@@ -1,9 +1,14 @@
 # final_project
 Title: The correlation between the hospital inpatient payment and financial hospital received
+
 Team Member: Xinyu Liu (xinyul10)
+
 Github_id: xinyul10
+
 Github final project link: https://github.com/Xinyul10/final_project_2020Sp
+
 Description: Usually, in United States, we should think the more financial support the hospital get, to some degree the less payment we could pay when being in hospital, however, complains on various platform complaining about the high charge of hospital never stop. So this project aims to study whether there is a correlation between the hospital inpatient payment and financial hospital received from various dimension.
+
 Project Type: (Type II Projects) Specifics for an Original Data Analysis [Non-simulation]
 
 Hypothesis:
