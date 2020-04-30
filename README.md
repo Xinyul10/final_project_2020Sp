@@ -1,5 +1,6 @@
 # final_project
-Title: The correlation between the hospital inpatient payment and financial hospital received
+
+Title: The potential factors correlated with Average Health Expenditure and its proportion of GDP
 
 Team Member: Xinyu Liu (xinyul10)
 
@@ -7,18 +8,21 @@ Github_id: xinyul10
 
 Github final project link: https://github.com/Xinyul10/final_project_2020Sp
 
-Description: Usually, in United States, we should think the more financial support the hospital get, to some degree the less payment we could pay when being in hospital, however, complains on various platform complaining about the high charge of hospital never stop. So this project aims to study whether there is a correlation between the hospital inpatient payment and financial hospital received from various dimension.
+Description: While I was analyzing the data I found before about the payment of patient and the financial fund from government, I found there are some mismatch of the two dataset and meaningless to handle them. Thus, from the data of payment, I got a more global analysis topic about the potential things that could affect Average Health Expenditure. Here, I included some potential influencing factors  from both nature and man-made, which are: fuel exports and Forest Coverage, GDP, Population Growth and Household Scale. I would not only analyze these data from the degree of different countries but also add some time series to prove whether there is a more close correlation within each couple. But due to the fact that some origin data is not that integral, it may be some inaccuracy in my analysis and once I found it, I would point it and improve it later. 
 
 Project Type: (Type II Projects) Specifics for an Original Data Analysis [Non-simulation]
 
 Hypothesis:
-The financial itself and payment itself have regional difference.
-The financial support can have a negative affect on inpatients’ payment.
-There is a certain point the payment would not change with financial support.
-Different kinds of financial support would not orient payment in the same direction.
+1. As the increase of fuel export and decrease Forest Coverage, the average annual health expenditure would increase accordingly.
+
+2. The Average annual health expenditure may have a linear relationship with GDP and Population Growth.
+
+3. The proportion the annual health expenditure accounting for GDP may have relation with the household scale.
 
 Data source:
 
-https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3
+https://population.un.org/Household/index.html#/countries/840
 
-https://healthdata.gov/dataset/hospital-annual-financial-data-selected-data-pivot-tables
+https://databank.worldbank.org/reports.aspx?source=2&series=AG.LND.FRST.ZS&country=
+
+https://apps.who.int/nha/database
