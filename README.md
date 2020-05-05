@@ -1,4 +1,4 @@
-# final_project
+# Final Project of IS590PR
 
 ## Title: The potential variables correlated with Average Health Expenditure
 
@@ -8,7 +8,7 @@
 I got hurt one day and understand the cost of going to hospital, which seems not to be a very reasonable number. So I wonder something about the health expenditure from government and want to explore the potential variables correlated with it. Here, I included some potential influencing factors from both nature and man-made, which are: fuel exports and Forest Coverage, GDP, Population Growth and Household Scale. I would not only analyze these data from the degree of different countries but also add some time series to prove whether there is a more close correlation within each couple. But due to the fact that some origin data is not that integral, it may be some inaccuracy in my analysis and once I found it, I would point it and improve it later. 
 
 ### Project Type: 
-(Type II Projects) Specifics for an Original Data Analysis [Non-simulation]
+(Type II Projects) Specifics for an Original Data Analysis [Non-simulation].
 
 ### Hypothesis:
 1. As the increase of fuel export and decrease of Forest Coverage, the annual health expenditure per capital would increase accordingly.
